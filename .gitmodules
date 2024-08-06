@@ -1,0 +1,3 @@
+[submodule "Temple"]
+	path = Temple
+	url = git@github.com:jf---/Temple.git
