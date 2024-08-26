@@ -3,11 +3,31 @@ WAAM = "wire arc additive manufacturing"
 AM = "additive manufacturing"
 3dcp = "extrusion 3d concrete printing"
 sc3dp = "shotcrete 3d printing"
+se3dp = "shot-earth 3d printing"
+
+AE = "http://aectual.com"
 
 
+[url]
+mx = "https://mx3d.com"
+vertico = "http://vertico.xyz"
+terre = "http://terrestrial.construction"
 
 [email]
 gijs = "gijs@mx3d.com"
 volker = "volker.ruitinga@vertico.xyz"
+jelle = "jelle@terrestrial.construction"
 
+[jelle]
 
+opus = "https://www.zaha-hadid.com/architecture/opus/"
+phd_thesis = "https://research.tudelft.nl/en/publications/architectural-robotics-bridging-the-divide-between-academic-resea"
+RG = "https://www.researchgate.net/profile/Jelle-Feringa"
+FH = "https://architectenweb.nl/nieuws/artikel.aspx?ID=43507"
+CC = "https://blog.aectual.com/circular-canopy-for-dutch-house-of-representatives-by-zecc"
+sgs = "https://www.sgssearch.nl/diensten/lca-van-product-en-dienst/lca-levenscyclusanalyse-van-product-en-dienst.html"
+HS = "https://www.degroteverbinding.be/nl/projecten/ringpark-schijn/over"
+
+[michiel]
+
+FC = "https://www.fibercore-europe.com/en/"
