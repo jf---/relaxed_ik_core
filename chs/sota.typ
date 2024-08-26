@@ -7,12 +7,17 @@
 
 bijdrages van de authors:
 
+
+
 - huizenprinters
   - variable laaghoogtes op een betekenisvolle wijze toegepast
     - vond op hetzelfde moment plaats als @bhooshan_striatus_2022
 
 - surface segmentatie op basis van _levelsets_
-  - @feringa_experimental_2011
+
+  - #cite(<feringa_experimental_2011>, form: "prose")
+  - #cite(<feringa_experimental_2011>, style: "chicago-author-date")
+    - @feringa_experimental_2011[p.~7]
 
 - software aectual
 - software mx3d

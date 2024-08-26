@@ -54,4 +54,4 @@
 
 // == Shot-Earth<shot>
 
-#bibliography("refs/references.bib")
+#bibliography("refs/references.bib", style: "institute-of-electrical-and-electronics-engineers")
