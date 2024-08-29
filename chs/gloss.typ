@@ -76,9 +76,8 @@
       short: "SE3DP",
       artshort: "an",
       long: "Shot-Earth 3d printing",
-      desc: [Wire Arc Additive Manufacturing  an advanced 3D printing process],
+      desc: [Wire Arc Additive Manufacturing an advanced 3D printing process],
     ),
-    
     (
       key: "se",
       short: "SE",
@@ -86,7 +85,6 @@
       long: "Shot-Earth",
       desc: [shot-earth is a method...],
     ),
-    
     (
       key: "sc",
       short: "SC",
@@ -94,26 +92,68 @@
       long: "Shotcrete",
       desc: [shot-earth is a method...],
     ),
-
     (
       key: "gunite",
       short: "Gunite",
       artshort: "an",
-      long: [Gunit is a dry-mix or thin-flow approach to @sc],
+      long: [Gunite is a dry-mix or thin-flow approach to shotcrete],
       desc: [shot-earth is a method...],
     ),
-    
     (
       key: "waam",
       short: "WAAM",
       artshort: "an",
-      // long: mit.WAAM,
-      long: "Wire Arc Additive Manufacturing",
-      // description: "Wire Arc Additive Manufacturing (WAAM) is an advanced 3D printing process that uses wire as the feedstock material and an electric arc as the heat source to create metal components. It is a type of Directed Energy Deposition (DED) additive manufacturing technique, specifically designed for producing large-scale metal parts.",
+      long: mit.WAAM,
+      // long: "Wire Arc Additive Manufacturing",
       desc: "Wire Arc Additive Manufacturing  an advanced 3D printing process",
     ),
-    
-    
+    (
+      key: "am",
+      short: "AM",
+      artshort: "an",
+      long: "additive manufacturing",
+      desc: [Additive manufacturing, commonly known as 3D printing, is a process of creating
+        objects by adding material layer by layer, based on digital 3D models. Unlike
+        traditional manufacturing methods, which often involve subtracting material from
+        a larger block (such as machining), additive manufacturing builds objects from
+        the ground up, allowing for complex geometries and efficient material use.
+
+        Methods including Fused Deposition Modeling, Stereolithography, Selective Laser
+        Sintering, Direct Metal Laser Sintering , Electron Beam Melting.],
+    ),
+    (
+      key: "aibuild",
+      short: "AI Build",
+      artshort: "an",
+      // long: mit.WAAM,
+      long: "AI Build",
+      desc: [AI Build is a London-based technology company specializing in artificial
+        intelligence (AI) and robotics for the manufacturing sector. The company focuses
+        on developing software and systems that enhance the efficiency, accuracy, and
+        scalability of additive manufacturing, particularly in large-scale 3D printing],
+    ),
+    (
+      key: "aec",
+      short: "AEC",
+      artshort: "an",
+      // long: mit.WAAM,
+      long: "Architecture Engineering Construction",
+      desc: [Architecture Engineering Construction industry],
+    ),
+    (
+      key: "adaxis",
+      short: "Adaxis",
+      artshort: "an",
+      // long: mit.WAAM,
+      long: "Adaxis",
+      desc: [#link(mit.url.adaxis, [Adaxis]) is a Swedish company specializing in 3D printing
+        software, with a strong focus on additive manufacturing and robotics. The
+        company provides advanced software solutions that enable users to integrate
+        robotic arms and other industrial robots into the 3D printing process. Their
+        software *AdaOne* is designed to enhance the capabilities of robotic systems,
+        allowing for more complex and precise additive manufacturing tasks, including
+        large-scale and multi-material 3D printing.],
+    ),
     (
       key: "notused",
       short: "Not used",

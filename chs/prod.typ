@@ -1,19 +1,3 @@
-TODO: beschrijf de overlap hierin tussen de partners
-
-=== mx3d
-
-
-MX3D levert een breed scala aan producten die de mogelijkheden van 3D-metaalprinttechnologie demonstreren. Hun productaanbod omvat onder andere:
-
-+ *Kunstwerken en installaties*: MX3D werkt samen met kunstenaars en ontwerpers om unieke metalen kunstwerken en installaties te creëren. Deze projecten benadrukken de esthetische en technische mogelijkheden van hun printtechnologie.
-
-  + *3D-geprinte bruggen*: Een van hun bekendste producten is de 3D-geprinte stalen brug over de Oudezijds Achterburgwal in Amsterdam. Deze brug toont de potentie van 3D-printen in infrastructuurprojecten en stedelijke toepassingen.
-+ *Industriële componenten*: Het bedrijf produceert op maat gemaakte industriële componenten voor verschillende sectoren, zoals scheepsbouw, lucht- en ruimtevaart, en de auto-industrie. Deze onderdelen worden gekenmerkt door hun complexiteit en precisie.
-
-+ *Architecturale elementen*: MX3D biedt ook oplossingen voor de bouwsector, waaronder op maat gemaakte architecturale elementen zoals gevels, kolommen en andere structurele componenten. Deze elementen kunnen complexere vormen en patronen hebben dan met traditionele methoden mogelijk is.
-
-+ *Consultancy en technologieplatform*: Naast fysieke producten biedt MX3D ook consultancy-diensten en toegang tot hun technologieplatform aan bedrijven die geïnteresseerd zijn in het integreren van 3D-metaalprinten in hun productieprocessen. Dit omvat training, technische ondersteuning en gezamenlijke ontwikkelingsprojecten.
-
 === vertico
 
 Vertico.xyz biedt een verscheidenheid aan producten die gebruikmaken van hun geavanceerde 3D-betonprinttechnologie. Hun productaanbod omvat:

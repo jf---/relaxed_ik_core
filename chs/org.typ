@@ -7,25 +7,6 @@
 
 == Korte historie en actuele bedrijfssituatie
 
-=== mx3d
-
-#link(mit.url.mx, "MX3D") is een Nederlands bedrijf dat innovatieve
-3D-metaalprinttechnologieën ontwikkelt. Het staat bekend om zijn baanbrekende
-aanpak, waarbij industriële robots worden gebruikt om complexe metalen
-structuren te printen. Een van hun meest opmerkelijke projecten is de
-3D-geprinte stalen brug over de Oudezijds Achterburgwal in Amsterdam. Dit
-project demonstreerde niet alleen de mogelijkheden van 3D-printen op grote
-schaal, maar ook de duurzaamheid en praktische toepasbaarheid ervan. MX3D werkt
-samen met verschillende industriële partners en academische instellingen om hun
-technologie verder te ontwikkelen en toe te passen in diverse sectoren, zoals de
-bouw en de scheepsbouw.
-
-#task[
-  - sinds demonstratie projecten heeft het bedrijf zich ontwikkelt, en heeft zich
-    ontwikkelt tot een relevante technologie aanbieder op het vlak van #mit.AM,
-    gericht op #mit.WAAM.
-]
-
 === vertico
 
 #link(mit.url.vertico, [Vertico]) is een innovatief Nederlands bedrijf dat
