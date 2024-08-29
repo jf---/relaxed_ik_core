@@ -141,6 +141,14 @@
       desc: [Architecture Engineering Construction industry],
     ),
     (
+      key: "fem",
+      short: "FEM",
+      artshort: "an",
+      // long: mit.WAAM,
+      long: "Finite Element Analyses",
+      desc: [Finite Element Analysessss],
+    ),
+    (
       key: "adaxis",
       short: "Adaxis",
       artshort: "an",

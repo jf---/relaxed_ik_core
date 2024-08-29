@@ -27,6 +27,7 @@ pythonocc = "https://github.com/tpaviot/pythonocc-core"
 rosindu = "https://rosindustrial.org"
 cead = "https://ceadgroup.com"
 aibuild = "https://ai-build.com"
+compas_slicer = "https://github.com/compas-dev/compas_slicer"
 
 [email]
 gijs = "gijs@mx3d.com"

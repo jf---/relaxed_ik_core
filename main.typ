@@ -128,15 +128,54 @@ Samengevat zijn er 4 redenen om deze MIT aan te vragen:
         te ontwikkelen zal ondermijnen op langere termijn. Wanneer de technologie niet
         langer onderscheidend is, wordt de _race to the bottom_ in termen
 
-+ OMG
++ State of the Art
 
- + @mitropoulou_nonplanar_2022, @mitropoulou_fabrication-aware_2023
+  + Baanbrekend is het werk van @zhang_s3-slicer_2022 ( zie video:
+    @charlie_c_l_wang_s3-slicer_2022 ) en @dutta_vector_2023 ( zie video:
+    @charlie_c_l_wang_vector_2023 )
+
+    + in @zhang_s3-slicer_2022 en @fang_reinforced_2020 wordt de correlatie tussen hoe een product opgebouwd
+      wordt en de constructieve kwaliteit van een product inzichtelijk gemaakt, waarbij de bandbreedte hiervan die van verschil in #mit.AM proces overstijgt -- en zo onderscheidend is
+
+      #figure(
+        image("figs/wang-vectorrrs.png"),
+        caption: []
+      )
 
 
-    Vormt een basis om nu een andere afweging te maken, ook omdat de partners zowel
-    de ervaring alswel de organisatie en over het team beschikken een dergelijk
-    project op lange termijn te kunnen ondersteunen
-    + Pioneering work:
+    + in @dutta_vector_2023 wordt op een onderscheidende manier geometrie gesliced. Allereerst vind er een @fem analyse plaats, en op basis van deze analyse vind slicing plaats. Zo zijn de slices congruent met de inwerking van strain op het product. 
+
+      // +  @willmann_function_2019 kent een soortgelijke basis om in een
+
+    + Videos:
+      + @charlie_c_l_wang_singularity-aware_2021
+      + @charlie_c_l_wang_s3-slicer_2022
+      + @charlie_c_l_wang_vector_2023
+      + @charlie_c_l_wang_neural_2024
+
+    + Software
+      De research software is #link("https://github.com/zhangty019", "gepubliceerd"), en is research code: niet te onderhouden, en moeilijk te gebruiken. Dat is de insteek van het project, de state of the art naar de markt te brengen.
+    // https://github.com/RyanTaoLiu/NeuralSlicer?tab=readme-ov-file
+
+  + Net zo baanbrekend is het werk van @mitropoulou_nonplanar_2022, @mitropoulou_fabrication-aware_2023, wat de insteek van het printen met non-uniforme toolpaden tot grote hoogte stuwt
+
+    #info[Tot zover...]
+
+    + Videos
+
+      + @mitropoulou_non-planar_2022-vimeo
+      + @noauthor_ioanna_2019
+
+    + Software
+
+      + haar werk is gebaseerd op `compas`, #link(mit.url.compas_slicer, [compas slicer])
+
+  // + @mitropoulou_nonplanar_2022, @mitropoulou_fabrication-aware_2023
+
+  //   Vormt een basis om nu een andere afweging te maken, ook omdat de partners zowel
+  //   de ervaring alswel de organisatie en over het team beschikken een dergelijk
+  //   project op lange termijn te kunnen ondersteunen
+  //   + Pioneering work:
 
 #figure(
   image("figs/osconstr.png"),
